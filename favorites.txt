@@ -1,3 +1,10 @@
+favorite foods:
 chicken
 beef
 veggies
+
+favorite movies:
+breaking bad
+one piece
+money heist
+
